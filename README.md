@@ -1,21 +1,17 @@
-# Continuous Integration of Data Science Project
-### IDS-706 Individual Project #1 by Yuwen Cai
+# Cloud-Hosted Notebook Data Manipulation of Data Science Project
+### IDS-706 Miniproject# 9 by Yuwen Cai
 
-[![cicd](https://github.com/nogibjj/Yuwen-IDS706-Individual1/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Yuwen-IDS706-Individual1/actions/workflows/cicd.yml)
+[![cicd](https://github.com/Candice1121/Yuwen-IDS706-miniproject9/actions/workflows/cicd.yml/badge.svg)](https://github.com/Candice1121/Yuwen-IDS706-miniproject9/actions/workflows/cicd.yml)
 
 ---
 **Dataset Source**
-https://www.kaggle.com/datasets/saurabh00007/iriscsv
+https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv
 
 ---
-**YouTube Video Demo**
 
-https://youtu.be/JSrr9RvWZAw
-
----
 **Summary**
 
-This project serves Continuous Integration using GitHub Actions of Python Data Science Project. Adopting Github actions, this Python-based template helps maintain code quality and consistency throughout the development process. The workflows include package downloading, linting, testing, formatting, and running tests. This repo are generated from my previous Python CiCd automation template: https://github.com/Candice1121/IDS706-template
+This project serves to set up a cloud-hosted Jupyter Notebook on Google Colab and perform data manipulation tasks on a sample dataset
 
 ---
 **Project Structure**
